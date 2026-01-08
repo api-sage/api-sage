@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hello World, I'm Paul 👋
 
-<!--
-**api-sage/api-sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Software Engineer** with experience designing and owning  
+data-intensive, high-availability systems in regulated and high-scale environments.
 
-Here are some ideas to get you started:
+I’ve spent the last few years building backend systems for **payments**,  
+**onboarding**, **settlements**, **notifications**, and **internal platforms**  
+used by **millions of users** across leading African banks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 What I work with
+- 💻 **Languages:** C#, Java, JavaScript (Node.js), Python  
+- 🧱 **Backend:** REST APIs, microservices, event-driven systems  
+- 🗄️ **Data:** MySQL, MSSQL, MongoDB, Redis  
+- 📡 **Messaging:** Apache Kafka  
+- ☁️ **Cloud & DevOps:** Azure, AWS, Docker, Linux  
+- 🔐 **Security:** Encryption, RBAC, compliance-aware system design  
+
+---
+
+### 🎯 What I care about
+- ⚙️ Building reliable systems that scale  
+- 🧑🏽‍💻 Clear ownership and production responsibility  
+- 📊 Performance, observability, and engineering hygiene  
+- 🚦 Moving fast without breaking things  
+
+---
+
+### 🔍 Currently exploring
+- 🛒 Consumer-facing systems  
+- 🚚 Logistics & marketplace architectures  
+- 🌍 Distributed systems beyond traditional banking  
+
+---
+
+📫 **Reach me:** paulafolabi745@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/paul-afolabi
