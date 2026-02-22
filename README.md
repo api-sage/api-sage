@@ -1,9 +1,10 @@
 ## Hello World, I'm Paul 👋
 
-🚀 **Backend Software Engineer** with experience designing and owning  
+🚀 **Backend Software Engineer** with experience designing and owning 
 data-intensive, high-availability systems in regulated and high-scale environments.
 
-I’ve spent the last few years building backend systems for **payments**, **onboarding**, **settlements**, **notifications**, and **internal platforms**  
+I’ve spent the last few years building backend systems for **payments**, 
+**onboarding**, **settlements**, **notifications**, and **internal platforms**  
 used by **millions of users** across leading African banks.
 
 ---
