@@ -9,9 +9,9 @@ used by **millions of users** across leading African banks.
 ---
 
 ### 🧰 What I work with
-- 💻 **Languages:** C#, Java, JavaScript (Node.js), Python  
+- 💻 **Languages:** Go, C#, Java, JavaScript (Node.js), Python  
 - 🧱 **Backend:** REST APIs, microservices, event-driven systems  
-- 🗄️ **Data:** MySQL, MSSQL, MongoDB, Redis  
+- 🗄️ **Data:** MySQL, MSSQL, PostgresSQL, MongoDB, Redis  
 - 📡 **Messaging:** Apache Kafka  
 - ☁️ **Cloud & DevOps:** Azure, AWS, Docker, Linux  
 - 🔐 **Security:** Encryption, RBAC, compliance-aware system design  
